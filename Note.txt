@@ -1,0 +1,3 @@
+Hello, this is Phuong's Assignment 2 for PRN211.
+'SaleManagement.sql' is the file sql
+'SE1507_PRN211_SE150998_SaleManagement' is the file scrip sql
